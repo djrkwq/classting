@@ -10,8 +10,17 @@
  - nodeJS, express
  - mongoDB
 
-제작 시간 : 2일
+제작 기간 : 2일
 
 
 데모 접속 URL :
 http://13.125.141.171:9091/classting
+
+모든 데이터 삭제 :
+http://13.125.141.171:9091/api/master/all/drop 호출
+
+투표 정보만 삭제 :
+http://13.125.141.171:9091/api/master/vote/drop 호출
+
+유저 정보만 삭제 :
+http://13.125.141.171:9091/api/master/user/drop 호출
