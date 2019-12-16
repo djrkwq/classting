@@ -9,6 +9,15 @@
  - aws window server
  - nodeJS, express
  - mongoDB
+ 
+실행 방법 (1)
+1. nodeJS 와 mongoDB 설치
+2. 같은 루트에 mongoDB 의 DB 설치
+3. server.js 파일에 있는 부분에서 콘솔을 통하여 node server 입력하여 서버 실행
+4. http://localhost:9091/classting 으로 접속
+
+실행 방법 (2)
+1. 아래의 데모 URL로 접속
 
 제작 기간 : 2일
 
